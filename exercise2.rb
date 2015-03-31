@@ -24,7 +24,11 @@
 
 # Part 3 - String Interpolation
 
-x = 45628
-y = 7839
+# x = 45628
+# y = 7839
 
-puts "The value of #{x} multiplide by #{y} is #{x*y}"
+# puts "The value of #{x} multiplide by #{y} is #{x*y}"
+
+# Part 4 - True && False!
+
+(true && false) || (false && true) || !(false && false)
