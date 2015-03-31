@@ -14,11 +14,17 @@
 # puts "Your total tip is: $" + "#{tip_value}"
 # puts "Your total bill with tip is $" + "#{total_with_tip}"
 
-Part 2 - Integer to String
+# Part 2 - Integer to String
 
-x = 7
-y = "7"
-sum_of_xy = x + y.to_i
+# x = 7
+# y = "7"
+# sum_of_xy = x + y.to_i
 
-puts sum_of_xy
+# puts sum_of_xy
 
+# Part 3 - String Interpolation
+
+x = 45628
+y = 7839
+
+puts "The value of #{x} multiplide by #{y} is #{x*y}"
